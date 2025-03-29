@@ -1,0 +1,3 @@
+added auto-logout if user is afk for more then specified time(5 mins).
+v0.0.2
+added user profile picture
